@@ -1,6 +1,6 @@
 
 
-# AdventureWorks BI Analysis - Power BI Project
+# Customer and Product Insights Dashboard - Power BI Project
 
 ## Project Overview
 - **Role:** Business Intelligence Analyst (Simulated)
